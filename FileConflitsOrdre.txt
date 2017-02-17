@@ -1,0 +1,6 @@
+Join Point Concern1: the hamiltonian path is : 1 2 
+Join Point Concern2: the longest path is : 1 - 4
+Join Point Concern1: the hamiltonian path is : 1 2 
+Join Point Concern2: the longest path is : 1 - 4
+Join Point Concern1: the hamiltonian path is : 1 2 
+Join Point Concern2: the longest path is : 1 - 4

@@ -1,0 +1,2 @@
+Aspect-Base matrix : Concern1 && Concern2 => (Concern1.scenario1 && Concern2.scenario2)
+Match Point matrix : Base Concern3 :Concern2 && Concern1 => (Concern2.scenario1 && Concern1.scen1)

@@ -1,0 +1,5 @@
+The recursive conflicts between aspects are :
+Concern1 <=> Concern2
+Concern5 <=> Concern6
+Concern3 <=> Concern5
+Concern2 <=> Concern3
